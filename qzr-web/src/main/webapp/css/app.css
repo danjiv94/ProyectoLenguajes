@@ -1,0 +1,8 @@
+ul.rules {
+  padding-left: 10px;
+}
+
+a.clickable:hover {
+	cursor: pointer;
+	cursor: hand;
+}
